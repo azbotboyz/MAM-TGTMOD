@@ -1,0 +1,211 @@
+
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Bống Bống Bang Bang" href="http://localhost/tgt2016/bai-hat/Bong-Bong-Bang-Bang/EZEF6AF.html">Bống Bống Bang Bang</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ 365DABAND" href="tim-kiem/bai-hat.html?key=365DABAND&ks=singer">365DABAND</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=374&key=8dd3fbbc1cb916c20eb21f3da20ee19f" target="_blank" title="Tải bài hát Bống Bống Bang Bang về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Bong-Bong-Bang-Bang/EZEF6AF.html" target="_blank" title="Nghe bài hát Bống Bống Bang Bang "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_374"><a style="cursor:pointer;" onclick="_load_box(374);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_374" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_374"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Nhật Ký" href="http://localhost/tgt2016/bai-hat/Nhat-Ky/EZEF6AD.html">Nhật Ký</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Triệu Hoàng" href="tim-kiem/bai-hat.html?key=Triệu+Hoàng&ks=singer">Triệu Hoàng</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=372&key=af6c8f3b4dd420ba6d43f5bf2c0ed7a7" target="_blank" title="Tải bài hát Nhật Ký về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Nhat-Ky/EZEF6AD.html" target="_blank" title="Nghe bài hát Nhật Ký "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_372"><a style="cursor:pointer;" onclick="_load_box(372);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_372" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_372"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Khóc" href="http://localhost/tgt2016/bai-hat/Khoc/EZEF6AC.html">Khóc</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Đông Nhi" href="tim-kiem/bai-hat.html?key=Đông+Nhi&ks=singer">Đông Nhi</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=371&key=531b998f058f09095563f7fc3a21f9ca" target="_blank" title="Tải bài hát Khóc về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Khoc/EZEF6AC.html" target="_blank" title="Nghe bài hát Khóc "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_371"><a style="cursor:pointer;" onclick="_load_box(371);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_371" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_371"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Cô Bé Mùa Đông" href="http://localhost/tgt2016/bai-hat/Co-Be-Mua-Dong/EZEF6AB.html">Cô Bé Mùa Đông</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Đăng Khôi ft Thủy Tiên" href="tim-kiem/bai-hat.html?key=Đăng+Khôi+ft+Thủy+Tiên&ks=singer">Đăng Khôi ft Thủy Tiên</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=370&key=2b64364733f24bcf9afc86096fc7835b" target="_blank" title="Tải bài hát Cô Bé Mùa Đông về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Co-Be-Mua-Dong/EZEF6AB.html" target="_blank" title="Nghe bài hát Cô Bé Mùa Đông "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_370"><a style="cursor:pointer;" onclick="_load_box(370);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_370" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_370"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Chúng Ta Không Thuộc Về Nhau" href="http://localhost/tgt2016/bai-hat/Chung-Ta-Khong-Thuoc-Ve-Nhau/EZEF6A9.html">Chúng Ta Không Thuộc Về Nhau</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Sơn Tùng MTP" href="tim-kiem/bai-hat.html?key=Sơn+Tùng+MTP&ks=singer">Sơn Tùng MTP</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=368&key=0e5de3c3990bcd10e809e87234e27287" target="_blank" title="Tải bài hát Chúng Ta Không Thuộc Về Nhau về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Chung-Ta-Khong-Thuoc-Ve-Nhau/EZEF6A9.html" target="_blank" title="Nghe bài hát Chúng Ta Không Thuộc Về Nhau "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_368"><a style="cursor:pointer;" onclick="_load_box(368);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_368" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_368"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Cho Tôi Xin Một Vé Đi Tuổi Thơ" href="http://localhost/tgt2016/bai-hat/Cho-Toi-Xin-Mot-Ve-Di-Tuoi-Tho/EZEF6A8.html">Cho Tôi Xin Một Vé Đi Tuổi Thơ</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Lynk Lee" href="tim-kiem/bai-hat.html?key=Lynk+Lee&ks=singer">Lynk Lee</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=367&key=ba921e46089cb09ea9b33142d0646f00" target="_blank" title="Tải bài hát Cho Tôi Xin Một Vé Đi Tuổi Thơ về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Cho-Toi-Xin-Mot-Ve-Di-Tuoi-Tho/EZEF6A8.html" target="_blank" title="Nghe bài hát Cho Tôi Xin Một Vé Đi Tuổi Thơ "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_367"><a style="cursor:pointer;" onclick="_load_box(367);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_367" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_367"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Really Love You" href="http://localhost/tgt2016/bai-hat/Really-Love-You/EZEF6A7.html">Really Love You</a> </p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Noo Phước Thịnh" href="tim-kiem/bai-hat.html?key=Noo+Phước+Thịnh&ks=singer">Noo Phước Thịnh</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tre/EZEFZOB.html" title="Nhạc Trẻ">Nhạc Trẻ</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=366&key=db9cd4c666d55d6a64202878ae862652" target="_blank" title="Tải bài hát Really Love You về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Really-Love-You/EZEF6A7.html" target="_blank" title="Nghe bài hát Really Love You "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_366"><a style="cursor:pointer;" onclick="_load_box(366);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_366" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_366"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Liên Khúc Tuấn Vũ 1 Phần 2 (Bông Cỏ May)" href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-1-Phan-2-Bong-Co-May/EZEF6A6.html">Liên Khúc Tuấn Vũ 1 Phần 2 (Bông Cỏ May)</a> <img src="images/media/hit.gif"></p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Tuấn Vũ" href="tim-kiem/bai-hat.html?key=Tuấn+Vũ&ks=singer">Tuấn Vũ</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Hai-Ngoai/EZEFZOD.html" title="Nhạc Hải Ngoại">Nhạc Hải Ngoại</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tru-Tinh/EZEFZOE.html" title="Nhạc Trữ Tình">Nhạc Trữ Tình</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=365&key=7d0bde94e7f446ab7631e6a001dbe455" target="_blank" title="Tải bài hát Liên Khúc Tuấn Vũ 1 Phần 2 (Bông Cỏ May) về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-1-Phan-2-Bong-Co-May/EZEF6A6.html" target="_blank" title="Nghe bài hát Liên Khúc Tuấn Vũ 1 Phần 2 (Bông Cỏ May) "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_365"><a style="cursor:pointer;" onclick="_load_box(365);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_365" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_365"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Liên Khúc Tuấn Vũ 1 Phần 1 (Ai Cho Tôi Tình Yêu)" href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-1-Phan-1-Ai-Cho-Toi-Tinh-Yeu/EZEF6AZ.html">Liên Khúc Tuấn Vũ 1 Phần 1 (Ai Cho Tôi Tình Yêu)</a> <img src="images/media/hit.gif"></p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Tuấn Vũ" href="tim-kiem/bai-hat.html?key=Tuấn+Vũ&ks=singer">Tuấn Vũ</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Hai-Ngoai/EZEFZOD.html" title="Nhạc Hải Ngoại">Nhạc Hải Ngoại</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tru-Tinh/EZEFZOE.html" title="Nhạc Trữ Tình">Nhạc Trữ Tình</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=364&key=0b30dc9b637d74c6c9f6ec2ed677610a" target="_blank" title="Tải bài hát Liên Khúc Tuấn Vũ 1 Phần 1 (Ai Cho Tôi Tình Yêu) về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-1-Phan-1-Ai-Cho-Toi-Tinh-Yeu/EZEF6AZ.html" target="_blank" title="Nghe bài hát Liên Khúc Tuấn Vũ 1 Phần 1 (Ai Cho Tôi Tình Yêu) "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_364"><a style="cursor:pointer;" onclick="_load_box(364);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_364" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_364"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end --->
+                <!--song-->
+                    <div class="list_song">
+                        <div class="left">						
+                        <p class="song"><a title="Nghe bài hát Liên Khúc Tuấn Vũ 2 Phần 1" href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-2-Phan-1/EZEF6AU.html">Liên Khúc Tuấn Vũ 2 Phần 1</a> <img src="images/media/hit.gif"></p>
+                        <p class="singer">Trình bày: <a title="Tìm kiếm bài hát của ca sĩ Tuấn Vũ" href="tim-kiem/bai-hat.html?key=Tuấn+Vũ&ks=singer">Tuấn Vũ</a></p>
+                        <p class="time">Thể loại: <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Viet-Nam/EZEFZOA.html" title="Việt Nam">Việt Nam</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Hai-Ngoai/EZEFZOD.html" title="Nhạc Hải Ngoại">Nhạc Hải Ngoại</a></span>, <span class="singer_"><a href="http://localhost/tgt2016/the-loai-bai-hat/Nhac-Tru-Tinh/EZEFZOE.html" title="Nhạc Trữ Tình">Nhạc Trữ Tình</a></span></p>
+                        </div>
+                        <div class="right list_icon">
+							<div class="left"><a href="down.php?id=363&key=606ff609654be222679d386ea71ff85c" target="_blank" title="Tải bài hát Liên Khúc Tuấn Vũ 2 Phần 1 về máy"><img border="0" src="images/media/down.gif"  class="hover_img" /></a></div>
+							<div class="left"><a href="http://localhost/tgt2016/bai-hat/Lien-Khuc-Tuan-Vu-2-Phan-1/EZEF6AU.html" target="_blank" title="Nghe bài hát Liên Khúc Tuấn Vũ 2 Phần 1 "><img border="0" src="images/media/play.gif"  class="hover_img" /></a></div>
+
+							<!-- Playlist ADD -->
+							<div class="left" id="playlist_363"><a style="cursor:pointer;" onclick="_load_box(363);"><img src="images/media/add.gif" class="hover_img"  /></a></div>
+							<div class="_PL_BOX" id="_load_box_363" style="display:none;"><span class="_PL_LOAD" id="_load_box_pl_363"></span></div>
+							<!-- End playlist ADD -->
+							<div class="clr"></div>
+                        </div>
+                    
+                        <div class="clr"></div>
+                    </div>
+                <!-- end ---><div class="clr"></div><div class="read_"><a class="read-more" href="Song/Viet-Nam.html">Xem thêm</a></div>
